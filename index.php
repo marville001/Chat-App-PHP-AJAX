@@ -49,5 +49,6 @@
     </div>
 
     <script src="js/password-show-hide.js"></script>
+    <script src="js/signup.js"></script>
   </body>
 </html>
