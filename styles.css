@@ -88,3 +88,26 @@ body {
     cursor: pointer;
     margin-top: 13px;
   }
+  .form form .field i{
+    position: absolute;
+    right: 15px;
+    top: 70%;
+    color: #ccc;
+    cursor: pointer;
+    transform: translateY(-50%);
+  }
+  .form form .field i.active::before{
+    color: #333;
+    content: "\f070";
+  }
+  .form .link{
+    text-align: center;
+    margin: 10px 0;
+    font-size: 17px;
+  }
+  .form .link a{
+    color: #333;
+  }
+  .form .link a:hover{
+    text-decoration: underline;
+  }
