@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<!-- Coding By CodingNepal - youtube.com/codingnepal -->
+<!-- Martin Mwangi -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Chat Application by Martin Mwangi using PHP AJAX martinmwangi.netlify.com">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Realtime Chat App | CodingNepal</title>
   <link rel="stylesheet" href="style.css">
